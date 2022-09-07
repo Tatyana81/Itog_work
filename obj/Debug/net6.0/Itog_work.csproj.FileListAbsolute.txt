@@ -1,0 +1,15 @@
+C:\Обучение Аналитик\Itog_work\bin\Debug\net6.0\Itog_work.exe
+C:\Обучение Аналитик\Itog_work\bin\Debug\net6.0\Itog_work.deps.json
+C:\Обучение Аналитик\Itog_work\bin\Debug\net6.0\Itog_work.runtimeconfig.json
+C:\Обучение Аналитик\Itog_work\bin\Debug\net6.0\Itog_work.dll
+C:\Обучение Аналитик\Itog_work\bin\Debug\net6.0\Itog_work.pdb
+C:\Обучение Аналитик\Itog_work\obj\Debug\net6.0\Itog_work.csproj.AssemblyReference.cache
+C:\Обучение Аналитик\Itog_work\obj\Debug\net6.0\Itog_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение Аналитик\Itog_work\obj\Debug\net6.0\Itog_work.AssemblyInfoInputs.cache
+C:\Обучение Аналитик\Itog_work\obj\Debug\net6.0\Itog_work.AssemblyInfo.cs
+C:\Обучение Аналитик\Itog_work\obj\Debug\net6.0\Itog_work.csproj.CoreCompileInputs.cache
+C:\Обучение Аналитик\Itog_work\obj\Debug\net6.0\Itog_work.dll
+C:\Обучение Аналитик\Itog_work\obj\Debug\net6.0\refint\Itog_work.dll
+C:\Обучение Аналитик\Itog_work\obj\Debug\net6.0\Itog_work.pdb
+C:\Обучение Аналитик\Itog_work\obj\Debug\net6.0\Itog_work.genruntimeconfig.cache
+C:\Обучение Аналитик\Itog_work\obj\Debug\net6.0\ref\Itog_work.dll
